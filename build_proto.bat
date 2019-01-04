@@ -1,0 +1,1 @@
+protoc --python_out=. recently_played.proto
