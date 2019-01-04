@@ -1,2 +1,3 @@
 # ParseiOSSpotify
-Parsing the Recently Played file on the iOS Spotify app
+
+Quick script to parse the recently_played.bnk file found in the iOS Spotify app directory.
